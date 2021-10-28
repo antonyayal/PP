@@ -11,4 +11,8 @@ package com.mycompany.poop7;
  */
 public class Ballena { 
     
+    //@Override
+    public void comer(){
+        System.out.println("Estoy comiendo plangton");
+    }
 }
