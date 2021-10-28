@@ -9,6 +9,6 @@ package com.mycompany.poop7;
  *
  * @author antonioayala
  */
-public class Ballena extends AnimalAcuatico{ 
+public class Ballena { 
     
 }
